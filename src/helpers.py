@@ -81,7 +81,7 @@ def make_my_information() -> Panel:
     sponsor_message.add_row("")
     sponsor_message.add_row("I'm a dynamic and aspiring enthusiast eager to explore and excel in the fields of Web Development and Ethical Hacking. I also hold a deep fascination for Quantum Computing, Astronomy and Extraterrestrials. Let's connect and collaborate on cutting-edge projects that can make a difference❕")
     sponsor_message.add_row("")
-    sponsor_message.add_row("[u bright_blue link=https://github.com/theeccentriccoder/]Github")
+    sponsor_message.add_row("[u bright_blue link=https://github.com/theeccentriccoder01/]Github")
     sponsor_message.add_row("")
     sponsor_message.add_row("[u bright_blue link=https://linkedin.com/in/eccentricexplorer]LinkedIn")
     sponsor_message.add_row("")
@@ -108,7 +108,7 @@ def make_sponsor_message() -> Panel:
     sponsor_message.add_row("")
     sponsor_message.add_row("My Insta Assistant is a super-power GitHub repository designed to revolutionise your Instagram engagement. With its advanced scraping capabilities, My Insta Assistant scours through your favourite Instagram accounts and YouTube channels the latest reels and shorts for your Instagram feed. Stay effortlessly connected with the freshest content from your preferred creators while amplifying your Instagram presence❕")
     sponsor_message.add_row("")
-    sponsor_message.add_row("[u bright_blue link=https://github.com/theeccentriccoder/Automated-Insta-Reel-Collector-And-Poster]Github Repo")
+    sponsor_message.add_row("[u bright_blue link=https://github.com/theeccentriccoder01/Automated-Insta-Reel-Collector-And-Poster]Github Repo")
 
     message_panel = Panel(
         Align.center(
